@@ -1,10 +1,10 @@
-# Cloud Engineering Learning Journey 🚀
+# Cloud Engineering Learning Journey
 
 Welcome to my repository for tracking my cloud engineering learning journey. This structured path takes me from fundamental sysadmin skills all the way to modern cloud deployments.
 
 ---
 
-## 🗺️ What This Curriculum Covers
+## What This Curriculum Covers
 
 1. **Linux & Networking:** Mastering the command line, server administration, and core networking concepts.
 2. **Application Development:** Building a functional, AI-powered API from scratch.
@@ -13,7 +13,7 @@ Welcome to my repository for tracking my cloud engineering learning journey. Thi
 
 ---
 
-## 🎯 Core Principles
+## Core Principles
 
 * **Learn with Direction:** Following a practical, goal-driven curriculum with hands-on challenges.
 * **Improve with Feedback:** Iterating on code and infrastructure through continuous review.
@@ -21,9 +21,7 @@ Welcome to my repository for tracking my cloud engineering learning journey. Thi
 
 ---
 
-## 🛠️ Tech Stack & Lab Environment
+## Tech Stack & Lab Environment
 * **Environment:** Multipass Linux Virtual Machine (Devbox)
 * **Version Control:** Git & GitHub
 * **Tools & Technologies:** Linux, Networking, APIs, Automation, Cloud Infrastructure
-
-# dev-cloud
