@@ -1,0 +1,6 @@
+file.txt
+inputTest.txt
+output.txt
+readFile.sh
+run_all.sh
+yourName.sh
